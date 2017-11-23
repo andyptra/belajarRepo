@@ -1,0 +1,21 @@
+Plagiaisme adalah tindakan mengambil ide atau tulisan
+orang lain tanpa rujukan dan mengklaim bahwa ide dan tulisan
+tersebut adalah miliknya [2]. Biasanya untuk melihat adanya
+atau tidak penjiplakan yang terjadi pada suatu karya ilmiah
+tersebut dilakukan secara manual dengan membaca semua
+isinya lalu dibandingkan dengan karya ilmiah lain. Dengan
+begitu, pemeriksaan tersebut membutuhkan waktu yang cukup
+banyak.
+Algoritma Rabin-Karp adalah suatu algoritma pencarian
+string yang ditemukan oleh Michael Rabin dan Richard Karp.
+Algoritma ini menggunakan hashing untuk menemukan
+sebuah substring dalam sebuah teks [3]. Disebut algoritma
+pencarian string dan bukan pencocokan string seperti KnuthMorris-Pratt
+atau Boyer-Moore karena memang Algoritma
+Rabin-Karp tidak bertujuan menemukan string yang cocok
+dengan string masukan, melainkan menemukan pola (pattern)
+yang sekiranya sesuai dengan teks masukan.
+Diharapkan aplikasi yang akan dirancang pada penelitian ini
+dapat membantu pengguna untuk melakukan pendeteksian
+kemiripan sebuah karya ilmiah dengan karya ilmiah lain yang
+berpotensi mengarah kepada tindakan plagiat.
